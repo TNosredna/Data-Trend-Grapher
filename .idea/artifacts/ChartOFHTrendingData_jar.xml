@@ -1,0 +1,57 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ChartOFHTrendingData:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts</output-path>
+    <root id="archive" name="ChartOFHTrendingData.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="ParseOFHData" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jfree/jcommon-1.0.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jfree/jfreechart-1.0.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/ant-1.8.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/ant-antlr-1.8.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/ant-junit-1.8.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/ant-launcher-1.8.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/antlr-2.7.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/asm-4.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/asm-analysis-4.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/asm-commons-4.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/asm-tree-4.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/asm-util-4.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/bsf-2.4.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/commons-cli-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/commons-logging-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/gpars-1.0-beta-3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/groovy-2.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/groovy-ant-2.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/groovy-bsf-2.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/groovy-console-2.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/groovy-docgenerator-2.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/groovy-groovydoc-2.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/groovy-groovysh-2.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/groovy-jmx-2.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/groovy-json-2.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/groovy-jsr223-2.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/groovy-servlet-2.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/groovy-sql-2.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/groovy-swing-2.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/groovy-templates-2.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/groovy-test-2.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/groovy-testng-2.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/groovy-xml-2.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/hamcrest-core-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/ivy-2.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/jansi-1.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/jcommander-1.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/jline-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/jsp-api-2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/jsr166y-1.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/junit-4.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/qdox-1.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/servlet-api-2.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/testng-6.5.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/xmlpull-1.1.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/opt/local/share/java/groovy/lib/xstream-1.4.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

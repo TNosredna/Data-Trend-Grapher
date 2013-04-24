@@ -1,0 +1,1 @@
+java -jar ChartOFHTrendingData.jar trending.properties

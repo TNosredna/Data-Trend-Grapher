@@ -1,0 +1,254 @@
+Info: label.y-axis->Count
+Info: parser.matcher.ofhline.v2.regex->.*?([0-9]+)\s+\/(.*)\s+Open Files\s*=\s*([0-9]+)\s*::\s*Soft Limit\s*=\s*([0-9]+)\s*::\s*Hard Limit\s*=\s*([0-9]+).*?
+Info: parser.matcher.timestampline.regex->.*?([a-zA-z]{3}?\s+[a-zA-z]{3}?\s+[0-9]{1,2}?\s+[0-9]{1,2}?:[0-9]{1,2}?:[0-9]{1,2}?\s+[a-zA-z]{3}?\s+[0-9]{4}?).*?
+Info: label.title->Open File Handles (System uLimit: 4096)
+Info: option.generate-tooltips->true
+Info: dataFile->../SoNC/ncc266_NOVELL_DIAG
+Info: logFile->trendingChartData.log
+Info: option.timestamp-format->MMdd hh:mm
+Info: option.generate-urls->false
+Info: parser.matcher.ofhline.v1.regex->.*?([0-9]+)\s+\/([^\s]*)\s+([0-9]+).*?
+Info: title->Open File Handles Trending Report
+Info: label.x-axis->Timestamp
+Info: option.create-legend->true
+Info: parser.matcher.ulimitline.regex->.*?ULIMIT:\s*([0-9]+).*?
+Info: option.fileLogging->true
+Info: option.debug->false
+Info: '../SoNC/ncc266_NOVELL_DIAG' does not exist
+Info: label.y-axis->Count
+Info: parser.matcher.ofhline.v2.regex->.*?([0-9]+)\s+\/(.*)\s+Open Files\s*=\s*([0-9]+)\s*::\s*Soft Limit\s*=\s*([0-9]+)\s*::\s*Hard Limit\s*=\s*([0-9]+).*?
+Info: parser.matcher.timestampline.regex->.*?([a-zA-z]{3}?\s+[a-zA-z]{3}?\s+[0-9]{1,2}?\s+[0-9]{1,2}?:[0-9]{1,2}?:[0-9]{1,2}?\s+[a-zA-z]{3}?\s+[0-9]{4}?).*?
+Info: label.title->Open File Handles (System uLimit: 4096)
+Info: option.generate-tooltips->true
+Info: dataFile->ncc266_NOVELL_DIAG
+Info: logFile->trendingChartData.log
+Info: option.timestamp-format->MMdd hh:mm
+Info: option.generate-urls->false
+Info: parser.matcher.ofhline.v1.regex->.*?([0-9]+)\s+\/([^\s]*)\s+([0-9]+).*?
+Info: title->Open File Handles Trending Report
+Info: label.x-axis->Timestamp
+Info: option.create-legend->true
+Info: parser.matcher.ulimitline.regex->.*?ULIMIT:\s*([0-9]+).*?
+Info: option.fileLogging->true
+Info: option.debug->false
+Info: 'ncc266_NOVELL_DIAG' does not exist
+Info: label.y-axis->Count
+Info: parser.matcher.ofhline.v2.regex->.*?([0-9]+)\s+\/(.*)\s+Open Files\s*=\s*([0-9]+)\s*::\s*Soft Limit\s*=\s*([0-9]+)\s*::\s*Hard Limit\s*=\s*([0-9]+).*?
+Info: parser.matcher.timestampline.regex->.*?([a-zA-z]{3}?\s+[a-zA-z]{3}?\s+[0-9]{1,2}?\s+[0-9]{1,2}?:[0-9]{1,2}?:[0-9]{1,2}?\s+[a-zA-z]{3}?\s+[0-9]{4}?).*?
+Info: label.title->Open File Handles (System uLimit: 4096)
+Info: option.generate-tooltips->true
+Info: dataFile->novelldiags10-30-12/ncc266_NOVELL_DIAG
+Info: logFile->trendingChartData.log
+Info: option.timestamp-format->MMdd hh:mm
+Info: option.generate-urls->false
+Info: parser.matcher.ofhline.v1.regex->.*?([0-9]+)\s+\/([^\s]*)\s+([0-9]+).*?
+Info: title->Open File Handles Trending Report
+Info: label.x-axis->Timestamp
+Info: option.create-legend->true
+Info: parser.matcher.ulimitline.regex->.*?ULIMIT:\s*([0-9]+).*?
+Info: option.fileLogging->true
+Info: option.debug->false
+Info: label.y-axis->Count
+Info: parser.matcher.ofhline.v2.regex->.*?([0-9]+)\s+\/(.*)\s+Open Files\s*=\s*([0-9]+)\s*::\s*Soft Limit\s*=\s*([0-9]+)\s*::\s*Hard Limit\s*=\s*([0-9]+).*?
+Info: parser.matcher.timestampline.regex->.*?([a-zA-z]{3}?\s+[a-zA-z]{3}?\s+[0-9]{1,2}?\s+[0-9]{1,2}?:[0-9]{1,2}?:[0-9]{1,2}?\s+[a-zA-z]{3}?\s+[0-9]{4}?).*?
+Info: label.title->Open File Handles (System uLimit: 4096)
+Info: option.generate-tooltips->true
+Info: dataFile->novelldiags10-30-12/ncc267_NOVELL_DIAG
+Info: logFile->trendingChartData.log
+Info: option.timestamp-format->MMdd hh:mm
+Info: option.generate-urls->false
+Info: parser.matcher.ofhline.v1.regex->.*?([0-9]+)\s+\/([^\s]*)\s+([0-9]+).*?
+Info: title->Open File Handles Trending Report
+Info: label.x-axis->Timestamp
+Info: option.create-legend->true
+Info: parser.matcher.ulimitline.regex->.*?ULIMIT:\s*([0-9]+).*?
+Info: option.fileLogging->true
+Info: option.debug->false
+Info: label.y-axis->Count
+Info: parser.matcher.ofhline.v2.regex->.*?([0-9]+)\s+\/(.*)\s+Open Files\s*=\s*([0-9]+)\s*::\s*Soft Limit\s*=\s*([0-9]+)\s*::\s*Hard Limit\s*=\s*([0-9]+).*?
+Info: parser.matcher.timestampline.regex->.*?([a-zA-z]{3}?\s+[a-zA-z]{3}?\s+[0-9]{1,2}?\s+[0-9]{1,2}?:[0-9]{1,2}?:[0-9]{1,2}?\s+[a-zA-z]{3}?\s+[0-9]{4}?).*?
+Info: label.title->Open File Handles (System uLimit: 4096)
+Info: option.generate-tooltips->true
+Info: dataFile->novelldiags10-30-12/ncc268_NOVELL_DIAG
+Info: logFile->trendingChartData.log
+Info: option.timestamp-format->MMdd hh:mm
+Info: option.generate-urls->false
+Info: parser.matcher.ofhline.v1.regex->.*?([0-9]+)\s+\/([^\s]*)\s+([0-9]+).*?
+Info: title->Open File Handles Trending Report
+Info: label.x-axis->Timestamp
+Info: option.create-legend->true
+Info: parser.matcher.ulimitline.regex->.*?ULIMIT:\s*([0-9]+).*?
+Info: option.fileLogging->true
+Info: option.debug->false
+Info: label.y-axis->Count
+Info: parser.matcher.ofhline.v2.regex->.*?([0-9]+)\s+\/(.*)\s+Open Files\s*=\s*([0-9]+)\s*::\s*Soft Limit\s*=\s*([0-9]+)\s*::\s*Hard Limit\s*=\s*([0-9]+).*?
+Info: parser.matcher.timestampline.regex->.*?([a-zA-z]{3}?\s+[a-zA-z]{3}?\s+[0-9]{1,2}?\s+[0-9]{1,2}?:[0-9]{1,2}?:[0-9]{1,2}?\s+[a-zA-z]{3}?\s+[0-9]{4}?).*?
+Info: label.title->Open File Handles
+Info: option.generate-tooltips->true
+Info: dataFile->novelldiags10-30-12/ncc269_NOVELL_DIAG
+Info: logFile->trendingChartData.log
+Info: option.timestamp-format->MMdd hh:mm
+Info: option.generate-urls->false
+Info: parser.matcher.ofhline.v1.regex->.*?([0-9]+)\s+\/([^\s]*)\s+([0-9]+).*?
+Info: title->Open File Handles Trending Report
+Info: label.x-axis->Timestamp
+Info: option.create-legend->true
+Info: parser.matcher.ulimitline.regex->.*?ULIMIT:\s*([0-9]+).*?
+Info: option.fileLogging->true
+Info: option.debug->false
+Info: label.y-axis->Count
+Info: parser.matcher.ofhline.v2.regex->.*?([0-9]+)\s+\/(.*)\s+Open Files\s*=\s*([0-9]+)\s*::\s*Soft Limit\s*=\s*([0-9]+)\s*::\s*Hard Limit\s*=\s*([0-9]+).*?
+Info: parser.matcher.timestampline.regex->.*?([a-zA-z]{3}?\s+[a-zA-z]{3}?\s+[0-9]{1,2}?\s+[0-9]{1,2}?:[0-9]{1,2}?:[0-9]{1,2}?\s+[a-zA-z]{3}?\s+[0-9]{4}?).*?
+Info: label.title->Open File Handles
+Info: option.generate-tooltips->true
+Info: dataFile->novelldiags10-30-12/ncc266NOVELL_DIAG
+Info: logFile->trendingChartData.log
+Info: option.timestamp-format->MMdd hh:mm
+Info: option.generate-urls->false
+Info: parser.matcher.ofhline.v1.regex->.*?([0-9]+)\s+\/([^\s]*)\s+([0-9]+).*?
+Info: title->Open File Handles Trending Report
+Info: label.x-axis->Timestamp
+Info: option.create-legend->true
+Info: parser.matcher.ulimitline.regex->.*?ULIMIT:\s*([0-9]+).*?
+Info: E->
+Info: option.fileLogging->true
+Info: option.debug->false
+Info: 'novelldiags10-30-12/ncc266NOVELL_DIAG' does not exist
+Info: label.y-axis->Count
+Info: parser.matcher.ofhline.v2.regex->.*?([0-9]+)\s+\/(.*)\s+Open Files\s*=\s*([0-9]+)\s*::\s*Soft Limit\s*=\s*([0-9]+)\s*::\s*Hard Limit\s*=\s*([0-9]+).*?
+Info: parser.matcher.timestampline.regex->.*?([a-zA-z]{3}?\s+[a-zA-z]{3}?\s+[0-9]{1,2}?\s+[0-9]{1,2}?:[0-9]{1,2}?:[0-9]{1,2}?\s+[a-zA-z]{3}?\s+[0-9]{4}?).*?
+Info: label.title->Open File Handles
+Info: option.generate-tooltips->true
+Info: dataFile->novelldiags10-30-12/ncc266NOVELL_DIAG
+Info: logFile->trendingChartData.log
+Info: option.timestamp-format->MMdd hh:mm
+Info: option.generate-urls->false
+Info: parser.matcher.ofhline.v1.regex->.*?([0-9]+)\s+\/([^\s]*)\s+([0-9]+).*?
+Info: title->Open File Handles Trending Report
+Info: label.x-axis->Timestamp
+Info: option.create-legend->true
+Info: parser.matcher.ulimitline.regex->.*?ULIMIT:\s*([0-9]+).*?
+Info: E->
+Info: option.fileLogging->true
+Info: option.debug->false
+Info: 'novelldiags10-30-12/ncc266NOVELL_DIAG' does not exist
+Info: label.y-axis->Count
+Info: parser.matcher.ofhline.v2.regex->.*?([0-9]+)\s+\/(.*)\s+Open Files\s*=\s*([0-9]+)\s*::\s*Soft Limit\s*=\s*([0-9]+)\s*::\s*Hard Limit\s*=\s*([0-9]+).*?
+Info: parser.matcher.timestampline.regex->.*?([a-zA-z]{3}?\s+[a-zA-z]{3}?\s+[0-9]{1,2}?\s+[0-9]{1,2}?:[0-9]{1,2}?:[0-9]{1,2}?\s+[a-zA-z]{3}?\s+[0-9]{4}?).*?
+Info: label.title->Open File Handles
+Info: option.generate-tooltips->true
+Info: dataFile->novelldiags10-30-12/ncc266NOVELL_DIAG
+Info: logFile->trendingChartData.log
+Info: option.timestamp-format->MMdd hh:mm
+Info: option.generate-urls->false
+Info: parser.matcher.ofhline.v1.regex->.*?([0-9]+)\s+\/([^\s]*)\s+([0-9]+).*?
+Info: title->Open File Handles Trending Report
+Info: label.x-axis->Timestamp
+Info: option.create-legend->true
+Info: parser.matcher.ulimitline.regex->.*?ULIMIT:\s*([0-9]+).*?
+Info: E->
+Info: option.fileLogging->true
+Info: option.debug->false
+Info: 'novelldiags10-30-12/ncc266NOVELL_DIAG' does not exist
+Info: label.y-axis->Count
+Info: parser.matcher.ofhline.v2.regex->.*?([0-9]+)\s+\/(.*)\s+Open Files\s*=\s*([0-9]+)\s*::\s*Soft Limit\s*=\s*([0-9]+)\s*::\s*Hard Limit\s*=\s*([0-9]+).*?
+Info: parser.matcher.timestampline.regex->.*?([a-zA-z]{3}?\s+[a-zA-z]{3}?\s+[0-9]{1,2}?\s+[0-9]{1,2}?:[0-9]{1,2}?:[0-9]{1,2}?\s+[a-zA-z]{3}?\s+[0-9]{4}?).*?
+Info: label.title->Open File Handles
+Info: option.generate-tooltips->true
+Info: dataFile->novelldiags10-30-12/ncc266_NOVELL_DIAG
+Info: logFile->trendingChartData.log
+Info: option.timestamp-format->MMdd hh:mm
+Info: option.generate-urls->false
+Info: parser.matcher.ofhline.v1.regex->.*?([0-9]+)\s+\/([^\s]*)\s+([0-9]+).*?
+Info: title->Open File Handles Trending Report
+Info: label.x-axis->Timestamp
+Info: option.create-legend->true
+Info: parser.matcher.ulimitline.regex->.*?ULIMIT:\s*([0-9]+).*?
+Info: E->
+Info: option.fileLogging->true
+Info: option.debug->false
+Info: label.y-axis->Count
+Info: parser.matcher.ofhline.v2.regex->.*?([0-9]+)\s+\/(.*)\s+Open Files\s*=\s*([0-9]+)\s*::\s*Soft Limit\s*=\s*([0-9]+)\s*::\s*Hard Limit\s*=\s*([0-9]+).*?
+Info: parser.matcher.timestampline.regex->.*?([a-zA-z]{3}?\s+[a-zA-z]{3}?\s+[0-9]{1,2}?\s+[0-9]{1,2}?:[0-9]{1,2}?:[0-9]{1,2}?\s+[a-zA-z]{3}?\s+[0-9]{4}?).*?
+Info: label.title->Open File Handles
+Info: option.generate-tooltips->true
+Info: dataFile->novelldiags10-30-12/ncc266_NOVELL_DIAG
+Info: logFile->trendingChartData.log
+Info: option.timestamp-format->MMdd hh:mm
+Info: option.generate-urls->false
+Info: parser.matcher.ofhline.v1.regex->.*?([0-9]+)\s+\/([^\s]*)\s+([0-9]+).*?
+Info: title->Open File Handles Trending Report
+Info: label.x-axis->Timestamp
+Info: option.create-legend->true
+Info: parser.matcher.ulimitline.regex->.*?ULIMIT:\s*([0-9]+).*?
+Info: E->
+Info: option.fileLogging->true
+Info: option.debug->false
+Info: label.y-axis->Count
+Info: parser.matcher.ofhline.v2.regex->.*?([0-9]+)\s+\/(.*)\s+Open Files\s*=\s*([0-9]+)\s*::\s*Soft Limit\s*=\s*([0-9]+)\s*::\s*Hard Limit\s*=\s*([0-9]+).*?
+Info: parser.matcher.timestampline.regex->.*?([a-zA-z]{3}?\s+[a-zA-z]{3}?\s+[0-9]{1,2}?\s+[0-9]{1,2}?:[0-9]{1,2}?:[0-9]{1,2}?\s+[a-zA-z]{3}?\s+[0-9]{4}?).*?
+Info: label.title->Open File Handles
+Info: option.generate-tooltips->true
+Info: dataFile->novelldiags10-30-12/ncc267_NOVELL_DIAG
+Info: logFile->trendingChartData.log
+Info: option.timestamp-format->MMdd hh:mm
+Info: option.generate-urls->false
+Info: parser.matcher.ofhline.v1.regex->.*?([0-9]+)\s+\/([^\s]*)\s+([0-9]+).*?
+Info: title->Open File Handles Trending Report
+Info: label.x-axis->Timestamp
+Info: option.create-legend->true
+Info: parser.matcher.ulimitline.regex->.*?ULIMIT:\s*([0-9]+).*?
+Info: E->
+Info: option.fileLogging->true
+Info: option.debug->false
+Info: label.y-axis->Count
+Info: parser.matcher.ofhline.v2.regex->.*?([0-9]+)\s+\/(.*)\s+Open Files\s*=\s*([0-9]+)\s*::\s*Soft Limit\s*=\s*([0-9]+)\s*::\s*Hard Limit\s*=\s*([0-9]+).*?
+Info: parser.matcher.timestampline.regex->.*?([a-zA-z]{3}?\s+[a-zA-z]{3}?\s+[0-9]{1,2}?\s+[0-9]{1,2}?:[0-9]{1,2}?:[0-9]{1,2}?\s+[a-zA-z]{3}?\s+[0-9]{4}?).*?
+Info: label.title->Open File Handles
+Info: option.generate-tooltips->true
+Info: dataFile->novelldiags10-30-12/ncc268_NOVELL_DIAG
+Info: logFile->trendingChartData.log
+Info: option.timestamp-format->MMdd hh:mm
+Info: option.generate-urls->false
+Info: parser.matcher.ofhline.v1.regex->.*?([0-9]+)\s+\/([^\s]*)\s+([0-9]+).*?
+Info: title->Open File Handles Trending Report
+Info: label.x-axis->Timestamp
+Info: option.create-legend->true
+Info: parser.matcher.ulimitline.regex->.*?ULIMIT:\s*([0-9]+).*?
+Info: E->
+Info: option.fileLogging->true
+Info: option.debug->false
+Info: label.y-axis->Count
+Info: parser.matcher.ofhline.v2.regex->.*?([0-9]+)\s+\/(.*)\s+Open Files\s*=\s*([0-9]+)\s*::\s*Soft Limit\s*=\s*([0-9]+)\s*::\s*Hard Limit\s*=\s*([0-9]+).*?
+Info: parser.matcher.timestampline.regex->.*?([a-zA-z]{3}?\s+[a-zA-z]{3}?\s+[0-9]{1,2}?\s+[0-9]{1,2}?:[0-9]{1,2}?:[0-9]{1,2}?\s+[a-zA-z]{3}?\s+[0-9]{4}?).*?
+Info: label.title->Open File Handles
+Info: option.generate-tooltips->true
+Info: dataFile->novelldiags10-30-12/ncc269_NOVELL_DIAG
+Info: logFile->trendingChartData.log
+Info: option.timestamp-format->MMdd hh:mm
+Info: option.generate-urls->false
+Info: parser.matcher.ofhline.v1.regex->.*?([0-9]+)\s+\/([^\s]*)\s+([0-9]+).*?
+Info: title->Open File Handles Trending Report
+Info: label.x-axis->Timestamp
+Info: option.create-legend->true
+Info: parser.matcher.ulimitline.regex->.*?ULIMIT:\s*([0-9]+).*?
+Info: E->
+Info: option.fileLogging->true
+Info: option.debug->false
+Info: label.y-axis->Count
+Info: parser.matcher.ofhline.v2.regex->.*?([0-9]+)\s+\/(.*)\s+Open Files\s*=\s*([0-9]+)\s*::\s*Soft Limit\s*=\s*([0-9]+)\s*::\s*Hard Limit\s*=\s*([0-9]+).*?
+Info: parser.matcher.timestampline.regex->.*?([a-zA-z]{3}?\s+[a-zA-z]{3}?\s+[0-9]{1,2}?\s+[0-9]{1,2}?:[0-9]{1,2}?:[0-9]{1,2}?\s+[a-zA-z]{3}?\s+[0-9]{4}?).*?
+Info: label.title->Open File Handles
+Info: option.generate-tooltips->true
+Info: dataFile->novelldiags10-30-12/ncc269_NOVELL_DIAG
+Info: logFile->trendingChartData.log
+Info: option.timestamp-format->MMdd hh:mm
+Info: option.generate-urls->false
+Info: parser.matcher.ofhline.v1.regex->.*?([0-9]+)\s+\/([^\s]*)\s+([0-9]+).*?
+Info: title->Open File Handles Trending Report
+Info: label.x-axis->Timestamp
+Info: option.create-legend->true
+Info: parser.matcher.ulimitline.regex->.*?ULIMIT:\s*([0-9]+).*?
+Info: E->
+Info: option.fileLogging->true
+Info: option.debug->false

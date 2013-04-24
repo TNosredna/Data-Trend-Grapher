@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jfree">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/jfree" />
+      <root url="file://$PROJECT_DIR$/lib/jfree" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/jfree" recursive="false" />
+  </library>
+</component>

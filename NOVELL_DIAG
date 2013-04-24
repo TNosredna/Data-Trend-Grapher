@@ -1,0 +1,11 @@
+Sun Sep 30 11:58:01 EDT 2012
+ System Default ULIMIT: 1024
+ 29650	/opt/novell/idm4/jre/bin/java	Open Files = 151 :: Soft Limit =  0 :: Hard Limit = 16384
+ 29967	/opt/novell/idm4/jre/bin/java	Open Files = 240 :: Soft Limit =  0 :: Hard Limit = 16384
+ 31529	/opt/novell/idm4/jre/bin/java	Open Files = 848 :: Soft Limit =  0 :: Hard Limit = 16384
+
+Mon Oct  1 11:58:01 EDT 2012
+ System Default ULIMIT: 1024
+ 29650	/opt/novell/idm4/jre/bin/java	Open Files = 197 :: Soft Limit =  0 :: Hard Limit = 16384
+ 29967	/opt/novell/idm4/jre/bin/java	Open Files = 360 :: Soft Limit =  0 :: Hard Limit = 16384
+ 31529	/opt/novell/idm4/jre/bin/java	Open Files = 1257 :: Soft Limit =  0 :: Hard Limit = 16384
